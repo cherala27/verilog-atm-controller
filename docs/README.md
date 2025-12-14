@@ -34,7 +34,8 @@ s4      	Withdrawal
 s5      	Deposit
 s6      	Balance inquiry
 s7	      PIN change
-![ATM FSM Diagram](D:\pradeep/atm_fsm.png)
+
+![ATM FSM Diagram](docs/atm.png)
 
 
 **Modes of Operation**
