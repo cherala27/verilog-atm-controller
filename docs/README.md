@@ -34,6 +34,8 @@ s4      	Withdrawal
 s5      	Deposit
 s6      	Balance inquiry
 s7	      PIN change
+![ATM FSM Diagram](D:\pradeep/atm_fsm.png)
+
 
 **Modes of Operation**
 The modes input selects the ATM operation:
